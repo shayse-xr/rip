@@ -1,0 +1,9 @@
+{
+  "name": "rip",
+  "description": "Tells your vibe-coded app why it sucks.",
+  "version": "0.1.0",
+  "author": {
+    "name": "shaysegal"
+  },
+  "homepage": "https://github.com/shayse-xr/rip"
+}
